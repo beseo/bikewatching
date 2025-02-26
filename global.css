@@ -8,3 +8,21 @@ body {
     margin: auto;
     padding: 1em;
   }
+
+header {
+    display: flex;
+    gap: 1em;
+    align-items: baseline;
+}
+
+label {
+    margin-left: auto
+}
+
+time, em {
+    display: block;
+}
+
+em {
+    font-style: italic;
+}
